@@ -1,0 +1,8 @@
+Car:{name='qwe', color='qwe', fuelType=PETROL, sits material='ajdsfk'}
+Car:{name='qwe', color='qwe', fuelType=DIESEL, sits material='ajdsfk'}
+Car:{name='qwe3', color='qwe1', fuelType=PETROL, sits material='ajdsfk'}
+Car:{name='qwe', color='1qwe', fuelType=DIESEL, sits material='ajdsfk'}
+Bus:{name='qwe', color='qwe', fuelType=DIESEL, doorAmount=12, sitsAmount=123}
+Bus:{name='erew', color='qwe', fuelType=PETROL, doorAmount=124, sitsAmount=123}
+Bus:{name='qwe123', color='qwe', fuelType=DIESEL, doorAmount=12, sitsAmount=123}
+Bus:{name='qwe1', color='qwe', fuelType=PETROL, doorAmount=12, sitsAmount=123}
